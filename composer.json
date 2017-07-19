@@ -1,0 +1,7 @@
+{
+    "require-dev":{
+        "guzzlehttp/guzzle": "~6.0",
+        "fzaninotto/faker" : "~1.5",
+        "phpunit/phpunit": "^5.6"
+    }
+}
